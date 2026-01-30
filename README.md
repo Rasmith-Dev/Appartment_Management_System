@@ -68,3 +68,30 @@ Document storage (leases, receipts, etc.)
 - Associate owners/managers to multiple flats/apartments.
 - Model household/roommate groups within a flat.
 - Add tenant move-in/move-out history per flat.
+
+## OUTPUT
+<img width="533" height="405" alt="image" src="https://github.com/user-attachments/assets/9561ea1d-0d5a-4797-85ab-c9905d9c5b05" />
+
+<img width="1523" height="489" alt="image" src="https://github.com/user-attachments/assets/17390ced-2e78-4c9c-80fb-cffe37428320" />
+
+<img width="1526" height="594" alt="image" src="https://github.com/user-attachments/assets/24a48c21-d77a-4d70-9daf-fad8ede8bed0" />
+
+<img width="1544" height="532" alt="image" src="https://github.com/user-attachments/assets/7a2c25a7-1fe1-4ff9-88f5-827049550e3b" />
+
+<img width="1542" height="523" alt="image" src="https://github.com/user-attachments/assets/50e7e032-bf24-412c-a192-bdc0d2e287d8" />
+
+<img width="1549" height="484" alt="image" src="https://github.com/user-attachments/assets/19b165ab-3815-4995-88a9-77c239042ddf" />
+
+<img width="1459" height="449" alt="image" src="https://github.com/user-attachments/assets/6a245ba4-a84a-40c1-a09d-13ba0796f646" />
+
+<img width="1339" height="864" alt="image" src="https://github.com/user-attachments/assets/c24280ed-e366-4d4c-ab3f-64001231d8e9" />
+
+
+
+
+
+
+
+
+
+
